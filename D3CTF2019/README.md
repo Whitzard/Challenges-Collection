@@ -146,3 +146,49 @@ Base Score 1000
 Now Score 1000
 Team solved 0
 
+## Crypto
+### Common
+Description
+Are you familiar with Wiener's attack?
+Challenge Address https://d3ctf-crypto-1256301804.cos.ap-shanghai.myqcloud.com/d13bc5b68b/task_39b71f9f08.py
+Base Score 1000
+Now Score 702.6
+Team solved 6
+
+### Bivariate
+Description
+The Coppersmith method, proposed by Don Coppersmith in the Wild, is a method to find small integer zeroes of univariate or bivariate polynomials modulo a given integer. The method uses the Lenstra–Lenstra–Lovász lattice basis reduction algorithm (LLL) to find a polynomial that has the same zeroes as the target polynomial but smaller coefficients.
+Challenge Address https://d3ctf-crypto-1256301804.cos.ap-shanghai.myqcloud.com/b078b70185/task_c46c3e00bd.py
+Base Score 1000
+Now Score 820.35
+Team solved 3
+
+### Noise
+Description
+Listen...The secret is...M2@...f*#...z()I!(...3;J...Hello?...really noisy here...God bless you get it...
+attachment: noise.py
+Challenge Address 
+nc 129.226.75.200 31837
+
+Base Score 1000
+Now Score 702.6
+Team solved 6
+
+### sign2win
+Description
+Do you want the flag? You can get the server code here server_56219b1c73.py
+Challenge Address 
+nc 129.226.163.141 12233
+
+Base Score 1000
+Now Score 702.6
+Team solved 6
+
+### babyecc
+Description
+Have you ever studied number theory?
+mid_a is the minimum positive integer that satisfies S(mid_a) = {1}
+Challenge Address https://d3ctf-crypto-1256301804.cos.ap-shanghai.myqcloud.com/b3b5ff9301/1f3d7f2220.sage
+Base Score 1000
+Now Score 607.15
+Team solved 10
