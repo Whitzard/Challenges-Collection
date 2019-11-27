@@ -1,3 +1,76 @@
+# Challenge Descriptions
+## Web
+### Showhub
+Description
+Showhub is a fashion-focused community built on a self-developed framework.
+Download this framework here
+Notice:scanner is useless
+Hint1:The password of admin is strong enough, so you can only try to modify it.
+Challenge Address http://ce63248160.showhub.d3ctf.io
+Base Score 1000
+Now Score 880.7
+Team solved 2
+
+### easyweb
+Description
+source code is in attachments
+Challenge Address http://ad9fad451f.easyweb.d3ctf.io
+Base Score 1000
+Now Score 460.16
+Team solved 21
+
+### babyxss
+Description
+xss? seriously?
+
+Check out the CSP plz
+admin is using the latest Chrome released.
+You may want to look into chrome://components
+portable sodium chloride
+Challenge Address https://885c56ab58.babyxss.d3ctf.io
+Base Score 1000
+Now Score 1000
+Team solved 0
+
+### d3guestbook
+Description
+hint:You don't need to fuzz, just audit the front-end code
+Challenge Address http://9fc3d270fe.d3guestbook.d3ctf.io
+Base Score 1000
+Now Score 1000
+Team solved 0
+
+### fake onelinephp
+Description
+None.
+Challenge Address http://ae04e18d5e.fakeonelinephp.d3ctf.io
+Base Score 1000
+Now Score 571.79
+Team solved 12
+
+### ezts
+Description
+ORM $eq Not SQLi?
+Note: The challenge will be reset every 60 seconds and the profile data will be reset as well. User will be retained.
+Hint1: source code
+Hint2: root privilege can be gained with sudo.
+Challenge Address http://f308b90cef.ezts.d3ctf.io
+Base Score 1000
+Now Score 965.54
+Team solved 1
+
+### ezupload
+Description
+webroot in /var/www/html
+Notice:scanner is useless
+hint1: webroot changes every 10 mins
+hint2: glob
+hint3: https://www.php.net/manual/en/language.oop5.decon.php Pay attention to the note in the article
+Challenge Address http://086ef16d9c.ezupload.d3ctf.io
+Base Score 1000
+Now Score 1000
+Team solved 0
+
 ## Pwn
 ### lonely_observer
 Description
@@ -192,3 +265,47 @@ Challenge Address https://d3ctf-crypto-1256301804.cos.ap-shanghai.myqcloud.com/b
 Base Score 1000
 Now Score 607.15
 Team solved 10
+
+## Misc
+### c+c
+Description
+This is a lite version of a great galgame (a.k.a. Visual Novel) written by Romeo Tanaka. Hope you enjoy it.
+Challenge Address https://d3ctf-misc-1256301804.cos.ap-shanghai.myqcloud.com/53bb5f6f0c6d562a1ffd01729d69a541.tar.gz
+Base Score 1000
+Now Score 965.54
+Team solved 1
+
+### Find Me?
+Description
+Find the password . flag must be d3ctf{.+} .
+Challenge Address https://d3ctf-misc-1256301804.cos.ap-shanghai.myqcloud.com/2bce3dfe7daf59c33e80d2894f147006.zip
+Base Score 1000
+Now Score 820.35
+Team solved 3
+
+### Vera
+Description
+For some reason, big hacker w1nd has been arrested by us. During the search on his computer, we found a strange file that could not be opened. Someone guessed that it had been encrypted, but W1nd refused to provide the password. Near the computer, we also found a book with a bookmark. Specifically, the bookmark is on page 13 of this book. Maybe this is the length of the password.
+hint: VeraCrypt ISBN
+Challenge Address https://d3ctf-misc-1256301804.cos.ap-shanghai.myqcloud.com/774103b49e/800ba1872d.file
+Base Score 1000
+Now Score 820.35
+Team solved 3
+
+### Welcome To D^3CTF!
+Description
+IRC, or TG, or QQ, that is the question.
+Hint: You can find the flag in our group / channel.
+Challenge Address https://platform.d3ctf.io
+Base Score 1000
+Now Score 10
+Team solved 384
+
+### bet2loss_v2
+Description
+Public and open source projects are free to start, maintain, and contribute to. Thanks @LoRexxar
+hint:settings.py is the KEY to win, and tells you HOW to get the flag.
+Challenge Address http://2f8da6e40c.bet2lossv2.d3ctf.io
+Base Score 1000
+Now Score 735.09
+Team solved 5
